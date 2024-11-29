@@ -1,0 +1,24 @@
+body {
+  background-color: #000; /* Fondo negro */
+  color: #fff; /* Texto blanco */
+  margin: 0;
+  font-family: Arial, sans-serif; /* Fuente legible */
+}
+
+.custom-form {
+  background-color: #333; /* Fondo gris oscuro */
+  border: 2px solid #007bff; /* Marco azul */
+  border-radius: 8px; /* Bordes redondeados */
+  max-width: 600px; /* Aumenta el ancho del formulario */
+  height: auto; /* Altura ajustable según contenido */
+  padding: 20px; /* Espaciado interno */
+  margin: 50px auto; /* Centrado horizontal y vertical */
+}
+
+.info-text {
+  color: #aaa; /* Texto en gris claro */
+  font-size: 1.5rem; /* Tamaño más pequeño */
+  margin-top: 20px; /* Separación del formulario */
+  line-height: 1.5; /* Espaciado entre líneas */
+}
+
